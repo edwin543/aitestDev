@@ -40,3 +40,6 @@ node hello-openclaw.js
 ```
 Hello, OpenClaw天团! Welcome to OpenClaw + Trae automated development.
 ```
+
+> Deployed via OpenClaw automation
+
